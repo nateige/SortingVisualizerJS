@@ -1,0 +1,137 @@
+.array-container {
+    position: absolute;
+    left: 1px;
+    /* top: 100px; */
+  }
+  
+  .array-bar1 {
+    padding: 3px;
+    position: relative;
+    left: 20px;
+    width: 2px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+  .array-bar2 {
+    padding: 3px;
+    width: 2px;
+    position: relative;
+    left: 20px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+  .array-bar3 {
+    padding: 3px;
+    width: 2px;
+    position: relative;
+    left: 20px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+  .array-bar4 {
+    padding: 3px;
+    width: 2px;
+    position: relative;
+    left: 20px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+
+  #heading{
+    width: 100%;
+    height: 20px;
+    background-color: rgb(100, 156, 202);
+    float: top;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+  }
+  #label_bar{
+    width: 100%;
+    height: 30px;
+    background-color: aquamarine;
+    float: top;
+    display: block;
+    font-family: Arial;
+  }
+  #graph1 {
+    width: 80vw;
+    height: 40vh;
+    border: 1px solid lightgray;
+    float: left;
+  }
+  #graph2{
+    width: 24vw;
+    height: 40vh;
+    border: 1px solid lightgray;
+    float: left; 
+  }
+  #graph3 {
+    width: 24vw;
+    height: 40vh;
+    border: 1px solid lightgray;
+    float: left;
+  }
+  #graph4{
+    width: 24vw;
+    height: 40vh;
+    border: 1px solid lightgray;
+    float: left; 
+  }
+  #statGraph {
+    width: 40vw;
+    height: 45vh;
+    border: 1px solid lightgray;
+    float: left;
+  }
+  #stats{
+    width: 40vw;
+    height: 45vh;
+    border: 1px solid lightgray;
+    float: left; 
+  }
+  #run_menu{
+    width: 15vw;
+    height: 45vh;
+    border: 1px solid lightgray;
+    float: left;
+
+  }
+
+  /* A 2nd layer box used on top of the network boxes. 
+  Used to show stats on the different sorting algorithms.
+
+  */
+  .boxStats{
+    width: 80vw;
+    height: 40vh;
+   
+    float: left;
+    position:absolute;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial;
+  }
+
+
+  .bottomRight{
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+  }
+
+/*
+Used to align text to the top left region of a div
+*/
+  .topLeft{
+    position: absolute;
+    top: 8px ;
+    left: 16px;
+    font-size: 18px;
+  }
+
+  .smallText{
+    font-size: 10px;
+  }
+
