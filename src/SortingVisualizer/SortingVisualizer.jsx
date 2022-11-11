@@ -899,7 +899,7 @@ export default class SortingVisualizer extends React.Component {
 
       <div id="graph1"></div>
       <div id="net1" className="boxStats">
-        <p><span id="sort1">Algorithm:</span></p>
+         <br></br>
          <div className="array-container">
          {array_v1.map((value, idx) => (
           <div
