@@ -5,7 +5,7 @@
 Homepage:
 ![image](https://user-images.githubusercontent.com/13879568/201383533-bf4d438c-5f16-4e1d-a8bd-2ec7b1e21052.png)
 
-Line Chart Usage:
+Line Chart:
 ![image](https://user-images.githubusercontent.com/13879568/201384407-2c932a44-e6a4-48c8-bcc8-bb8a78d3d169.png)
 
 
