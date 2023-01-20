@@ -46,7 +46,7 @@ Upon loading the page, arrays of random numbers will be generated of the followi
 2000x2000
 
 
-The user can select from 4 of the algorithms listed to compare their runtimes.
+The user can select from 4 of the algorithms listed to compare their runtimes on the sets of random arrays.
 Once the "Chart Sort" button has been pressed, the user can see the runtimes displayed on the graph like the example below.
 
 
